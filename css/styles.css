@@ -256,3 +256,31 @@ a {
     border: 1px solid palegoldenrod;
 }
 /* Styling for call-to-action section ends here */
+
+/* Styling for footer section starts here */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 170px;
+    font-size: 18px;
+    color: #e5e7eb;
+    border: 1px solid #d5d7db;
+}
+
+
+address {
+    display: flex;
+    gap: 25px;
+}
+
+address p {
+    border-right: 1px solid #3882f6;
+    padding-right: 6px;
+}
+address p a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+/* Styling for footer section ends here */
