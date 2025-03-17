@@ -9,9 +9,6 @@
 body {
     line-height: 1.6;
     background-color: #f8f8f8;
-    display: flex;
-    flex-direction: column;
-
   }
 
 a {
@@ -21,6 +18,11 @@ a {
 /* CSS reset ends here */
 
 /* Styling for header section starts here */
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
