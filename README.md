@@ -19,5 +19,6 @@ Your project is based on the image design provided. Image 01 consists of a websi
 
 ## Acknowledgments
 - [The Odin Project](https://www.theodinproject.com) for the curriculum and project inspiration.
+- [Kuber Electrical](https://kuberelectrical.com/) for the page content and images
 
 
