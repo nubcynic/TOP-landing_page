@@ -213,3 +213,46 @@ a {
 }
 /* Styling for testimonial section ends here */
 
+/* Styling for call-to-action section starts here */
+.cta {
+    display: flex;
+    align-items: center;
+    background-color: #3882f6;
+    margin: 70px 170px;
+    padding: 30px 90px;
+    gap: 70px;
+    border-radius: 12px;
+}
+
+.cta-content {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.cta-title {
+    text-transform: capitalize;
+    font-size: 22px;
+    line-height: 1.3;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.cta-text {
+    font-size: 16px;
+    font-weight: 300;
+    color: #d5d7db;
+}
+
+.cta-btn {
+    font-size: 18px;
+    font-weight: bold;
+    width: 150px;
+    flex-shrink: 0;
+    padding: 8px;
+    border-radius: 6px;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: 1px solid palegoldenrod;
+}
+/* Styling for call-to-action section ends here */
